@@ -1,4 +1,4 @@
-### Olá!! Sou o ViniciusTheCoder, estudande de sistemas de informação e desenvolvedor júnior  🤟😎🤟
+### Hi!! I'm ViniciusTheCoder, student of information systems e junior developer  🤟😎🤟
 
 - 🔭 Career transition
 - 🌱 Deepening studies in JavaScript and front-end
@@ -21,5 +21,5 @@
   
 <div>
   <a href = "mailto:vinigurskiferraz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/vinícius-gurski-ferraz-ba7ba0206" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/vin%C3%ADcius-gurski-ferraz-ba7ba0206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div> 
