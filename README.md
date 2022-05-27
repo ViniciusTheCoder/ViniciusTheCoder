@@ -1,8 +1,8 @@
 ### Hi!! I'm ViniciusTheCoder, student of information systems e junior developer  🤟😎🤟
 
-- 🔭 Career transition
-- 🌱 I want to be an Mobile Developer and that's why I'm studying React Native
-- 📫 Contact me: vinigurskiferraz@gmail.com
+- 🚀 Career transition
+- ✨ I want to be an Mobile Developer and that's why I'm studying React Native 📱
+- ☕ Wanna chat? DM me at 👉 www.linkedin.com/in/viniciusgferraz
 - 😄 Pronouns: he/him
 
 <div align="center">
