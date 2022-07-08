@@ -1,6 +1,5 @@
 ### Hi!! I'm ViniciusTheCoder, student of information systems e junior developer  🤟😎🤟
 
-- 🚀 Dreamer
 - ✨ I want to be an Mobile Developer and that's why I'm studying React Native 📱
 - 🌌 I'm an unstoppable seeker knowledgment, I want to develop the solution for your problems and make the world a better place. Your welcome! 🤙
 - ☕ Wanna chat? DM me at 👉 www.linkedin.com/in/viniciusgferraz
