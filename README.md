@@ -1,6 +1,6 @@
 ### Hi!! I'm ViniciusTheCoder, student of information systems e junior developer  🤟😎🤟
 
-- Mobile development addicted
+- Mobile development addicted 📱
 - 🌌 I'm an unstoppable seeker knowledgment, I want to develop the solution for your problems and make the world a better place. Your welcome! 🤙
 - ☕ Wanna chat? Get in touch👉 https://www.linkedin.com/in/viniciusgferraz/
 
