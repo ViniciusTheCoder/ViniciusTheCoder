@@ -1,4 +1,4 @@
-### Wassup!! I'm ViniciusTheCoder, student of information systems 🤟😎🤟
+### Wassup!! Imma mobile developer and undergraduating Information Systems
 
 - 📱 Mobile development addicted 
 - 🌌 I'm an unstoppable seeker knowledgment, I want to develop the solution for your problems and make the world a better place. Your welcome! 🤙
