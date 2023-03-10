@@ -1,5 +1,6 @@
 ### Wassup!! Imma mobile developer and undergraduating Information Systems
 
+- Front-ender 🧸
 - 🌌 I'm an unstoppable seeker knowledgment, I want to develop the solution for your problems and make the world a better place. Your welcome! 🤙
 - ☕ Wanna chat? Get in touch 👉 [Linkedin](https://www.linkedin.com/in/viniciusgferraz/)
 
