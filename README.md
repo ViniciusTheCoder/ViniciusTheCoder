@@ -1,4 +1,4 @@
-### Wassup!! Imma mobile developer and undergraduating Information Systems
+### Wassup!! Imma developer creating cool stuff for cool companies and undergraduating Information Systems :D
 
 - Software developer passionate about Parallel Computing, unfortunately currently working with Front-End 
 - ☕ Wanna chat? Get in touch 👉 [Linkedin](https://www.linkedin.com/in/viniciusgferraz/)
