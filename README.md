@@ -1,6 +1,6 @@
 ### Wassup!! Imma developer creating cool stuff for cool companies and undergraduating Information Systems :D
 
-- Software developer passionate about Parallel Computing, unfortunately currently working with Front-End 
+- Software developer passionate about Parallel Computing, currently working with AI & Machine Learning
 - ☕ Wanna chat? Get in touch 👉 [Linkedin](https://www.linkedin.com/in/viniciusgferraz/)
 
 <div align="center">
