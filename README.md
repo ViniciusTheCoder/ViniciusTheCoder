@@ -2,7 +2,7 @@
 
 - Software developer passionate about Parallel Computing, currently working with AI & Machine Learning
 - ☕ Wanna chat? Get in touch 👉 [Linkedin](https://www.linkedin.com/in/viniciusgferraz/)
-- [Personal website] (https://vinicius-dev-ecru.vercel.app/)
+- [Personal website](https://vinicius-dev-ecru.vercel.app/)
 
 <div align="center">
   <a href="https://github.com/ViniciusTheCoder">
