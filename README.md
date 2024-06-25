@@ -1,4 +1,4 @@
-### Wassup!! Imma developer creating cool stuff for cool companies and undergraduating Information Systems :D
+### Hello 🫶🏻
 
 - Software developer passionate about Parallel Computing, currently working with AI & Machine Learning
 - ☕ Wanna chat? Get in touch 👉 [Linkedin](https://www.linkedin.com/in/viniciusgferraz/)
