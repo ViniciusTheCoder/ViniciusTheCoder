@@ -1,4 +1,4 @@
-### Hello 🫶🏻
+### Hello \0/
 
 - Software developer, currently working with LLMs
 - ☕ Wanna chat? Get in touch 👉 [Linkedin](https://www.linkedin.com/in/viniciusgferraz/)
